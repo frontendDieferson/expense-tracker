@@ -2,6 +2,13 @@
 
 This project was made in React during a challenge called "5 Projetos em 5 Dias" by [B7Web](https://b7web.com.br).
 
+# Project
+
+![expense tracker](https://user-images.githubusercontent.com/62387982/149978645-18c346b9-2fcd-4b58-96eb-683fc3f27023.png)
+
+
+
+
 ## First Steps
 
 `npm install`
